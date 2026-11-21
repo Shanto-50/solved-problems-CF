@@ -1,5 +1,5 @@
 This repository contains my solved competitive programming problems.
 
-Language: C
+Language: C and C++
 
 Platform: Codeforces
